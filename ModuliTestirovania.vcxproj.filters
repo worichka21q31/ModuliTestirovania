@@ -18,8 +18,11 @@
     <ClCompile Include="ModuliTestirovania.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="Source.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="file.md" />
+    <None Include="readme.md" />
   </ItemGroup>
 </Project>
